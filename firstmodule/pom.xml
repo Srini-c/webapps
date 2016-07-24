@@ -8,6 +8,7 @@
   <packaging>jar</packaging>
 
   <name>firstmodule</name>
+  <description>test</description>
   <url>http://maven.apache.org</url>
 
   <properties>
